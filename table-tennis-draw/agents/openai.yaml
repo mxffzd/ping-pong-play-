@@ -1,0 +1,3 @@
+interface:
+  display_name: "乒乓球分组"
+  short_description: "整理名单、种子分组，生成组内循环表和不标种子的淘汰赛对战图"
